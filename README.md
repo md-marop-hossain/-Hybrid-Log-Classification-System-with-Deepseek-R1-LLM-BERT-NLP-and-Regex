@@ -6,7 +6,7 @@ This repository provides an end-to-end, production-ready system for automatic lo
 
 ## Project Architecture
 
-![Architecture](arch.jpg)
+![Architecture](arch.png)
 
 **Workflow:**
 1. **Regex Classification:**  
